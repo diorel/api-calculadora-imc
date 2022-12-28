@@ -1,0 +1,10 @@
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BFP.Model\bin\Release\netcoreapp3.1\Calculadora.BFP.Model.deps.json
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BFP.Model\bin\Release\netcoreapp3.1\Calculadora.BFP.Model.dll
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BFP.Model\bin\Release\netcoreapp3.1\Calculadora.BFP.Model.pdb
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BFP.Model\obj\Release\netcoreapp3.1\Calculadora.BFP.Model.csproj.AssemblyReference.cache
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BFP.Model\obj\Release\netcoreapp3.1\Calculadora.BFP.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BFP.Model\obj\Release\netcoreapp3.1\Calculadora.BFP.Model.AssemblyInfoInputs.cache
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BFP.Model\obj\Release\netcoreapp3.1\Calculadora.BFP.Model.AssemblyInfo.cs
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BFP.Model\obj\Release\netcoreapp3.1\Calculadora.BFP.Model.csproj.CoreCompileInputs.cache
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BFP.Model\obj\Release\netcoreapp3.1\Calculadora.BFP.Model.dll
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BFP.Model\obj\Release\netcoreapp3.1\Calculadora.BFP.Model.pdb

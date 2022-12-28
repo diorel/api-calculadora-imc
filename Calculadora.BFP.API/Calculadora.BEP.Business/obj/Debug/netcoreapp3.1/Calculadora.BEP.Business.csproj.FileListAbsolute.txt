@@ -1,0 +1,13 @@
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\bin\Debug\netcoreapp3.1\Calculadora.BEP.Business.deps.json
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\bin\Debug\netcoreapp3.1\Calculadora.BEP.Business.dll
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\bin\Debug\netcoreapp3.1\Calculadora.BEP.Business.pdb
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\bin\Debug\netcoreapp3.1\Calculadora.BFP.Model.dll
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\bin\Debug\netcoreapp3.1\Calculadora.BFP.Model.pdb
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\obj\Debug\netcoreapp3.1\Calculadora.BEP.Business.csproj.AssemblyReference.cache
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\obj\Debug\netcoreapp3.1\Calculadora.BEP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\obj\Debug\netcoreapp3.1\Calculadora.BEP.Business.AssemblyInfoInputs.cache
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\obj\Debug\netcoreapp3.1\Calculadora.BEP.Business.AssemblyInfo.cs
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\obj\Debug\netcoreapp3.1\Calculadora.BEP.Business.csproj.CoreCompileInputs.cache
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\obj\Debug\netcoreapp3.1\Calculadora.BEP.Business.csproj.CopyComplete
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\obj\Debug\netcoreapp3.1\Calculadora.BEP.Business.dll
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEP.Business\obj\Debug\netcoreapp3.1\Calculadora.BEP.Business.pdb

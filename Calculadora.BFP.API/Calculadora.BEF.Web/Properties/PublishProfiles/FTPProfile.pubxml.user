@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAucyPNsjtCk2kO3D1pxCJ0QAAAAACAAAAAAAQZgAAAAEAACAAAADYbSlbRx9nE4sg3Noa123mTu9UUDp1+83W12UtZMof6wAAAAAOgAAAAAIAACAAAAAYqneN3H0vqCwPzq9yk6MonGyEtfK2gef40FSlGdOiVSAAAAD2WLPoU/c8Gekgc2CSJPakiwAg0YsbDC7vtez9lmoRTUAAAACzjwG8NxyXUvBPh/77G5b/3DGZ0JRNqPL/hmDPzZkanLAtwxMlteDHYFtgiWdjjfgIUFx4/s4YkvSIOCiHUsgT</EncryptedPassword>
+    <_PublishTargetUrl>ftp://192.52.242.121/www.SolucionDiorel.somee.com</_PublishTargetUrl>
+    <History>True|2022-12-28T02:36:20.7284202Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>12/22/2022 12:24:14</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>12/22/2022 12:24:14</publishTime>
+    </File>
+    <File Include="Calculadora.BEF.Web.deps.json">
+      <publishTime>12/27/2022 20:36:06</publishTime>
+    </File>
+    <File Include="Calculadora.BEF.Web.dll">
+      <publishTime>12/27/2022 20:36:06</publishTime>
+    </File>
+    <File Include="Calculadora.BEF.Web.exe">
+      <publishTime>12/27/2022 20:36:06</publishTime>
+    </File>
+    <File Include="Calculadora.BEF.Web.pdb">
+      <publishTime>12/27/2022 20:36:06</publishTime>
+    </File>
+    <File Include="Calculadora.BEF.Web.runtimeconfig.json">
+      <publishTime>12/27/2022 20:36:06</publishTime>
+    </File>
+    <File Include="Calculadora.BEP.Business.dll">
+      <publishTime>12/27/2022 20:36:05</publishTime>
+    </File>
+    <File Include="Calculadora.BEP.Business.pdb">
+      <publishTime>12/27/2022 20:36:05</publishTime>
+    </File>
+    <File Include="Calculadora.BFP.Model.dll">
+      <publishTime>12/27/2022 20:36:04</publishTime>
+    </File>
+    <File Include="Calculadora.BFP.Model.pdb">
+      <publishTime>12/27/2022 20:36:04</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>12/27/2022 20:36:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

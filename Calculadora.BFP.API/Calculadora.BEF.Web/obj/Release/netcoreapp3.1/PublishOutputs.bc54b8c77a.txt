@@ -1,0 +1,11 @@
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEF.Web\obj\Release\netcoreapp3.1\PubTmp\Out\Calculadora.BEF.Web.exe
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEF.Web\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEF.Web\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEF.Web\obj\Release\netcoreapp3.1\PubTmp\Out\Calculadora.BEF.Web.dll
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEF.Web\obj\Release\netcoreapp3.1\PubTmp\Out\Calculadora.BEF.Web.deps.json
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEF.Web\obj\Release\netcoreapp3.1\PubTmp\Out\Calculadora.BEF.Web.runtimeconfig.json
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEF.Web\obj\Release\netcoreapp3.1\PubTmp\Out\Calculadora.BEF.Web.pdb
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEF.Web\obj\Release\netcoreapp3.1\PubTmp\Out\Calculadora.BEP.Business.dll
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEF.Web\obj\Release\netcoreapp3.1\PubTmp\Out\Calculadora.BFP.Model.dll
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEF.Web\obj\Release\netcoreapp3.1\PubTmp\Out\Calculadora.BEP.Business.pdb
+C:\ExamenReact\Back\Calculadora.BFP.API\Calculadora.BEF.Web\obj\Release\netcoreapp3.1\PubTmp\Out\Calculadora.BFP.Model.pdb
